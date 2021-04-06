@@ -1,0 +1,31 @@
+* {
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.sidebar .nav-link .feather {
+    margin-right: 17px;
+}
+
+.sidebar .sidebar-heading span {
+    color: #001737;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 10px;
+}
+
+.sidebar .sidebar-heading {
+    margin-left: 16px;
+    margin-bottom: 20px;
+}
+
+.sidebar .nav .nav-item .nav-link span {
+    padding-top: 3px;
+    position: absolute;
+}
+
+.sidebar .nav .nav-item .nav-link {
+    color: #657285;
+}
+.sidebar .nav .nav-item .active {
+    color: #39D5D5;
+}
